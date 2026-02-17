@@ -29,7 +29,7 @@
 ## 🕵️ `whoami`
 
 ```bash
-┌──(cybergeek-007㉿netguard)-[~]
+┌──(cybergeek-007㉿127.0.0.1)-[~]
 └─$ cat profile.txt
 
   Name     :  Ritesh Guleria
