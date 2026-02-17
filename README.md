@@ -1,16 +1,18 @@
-## Hi there 👋
+# 💫 About Me:
+🔭 I’m currently working on: NetGuard, a Python-based network analysis tool that integrates Tshark and the AbuseIPDB API for real-time packet inspection and malicious IP flagging.<br>👯 I’m looking to collaborate on: Open-source Red Teaming tools, exploit development projects, or automated vulnerability scanners.<br>🤝 I’m looking for help with: Hardening OpenVPN configurations on cloud infrastructure (Azure) and mastering advanced Kernel-level exploitation.<br>🌱 I’m currently learning: Preparing for the ISC2 Certified in Cybersecurity (CC) and CAPIJ (Certified API Hacking Junior) to bridge the gap between network security and API penetration testing.<br>💬 Ask me about: Nmap stealth scanning, Wireshark traffic analysis, Metasploit payloads, and the OWASP Top 10.<br>⚡ Fun fact: I find reading raw hex dumps more therapeutic than scrolling social media, and I once built a personal VPN gateway on Azure just to see if I could make it "invisible" to standard DPI.
 
-<!--
-**cybergeek-007/cybergeek-007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/8dKyeY6F) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/riteshguleria007/) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat&logo=windows-terminal&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=flat&logo=render&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=flat&logo=tor-project&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=cybergeek-007&theme=github_dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=cybergeek-007&theme=github_dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=cybergeek-007&theme=github_dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=cybergeek-007&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
