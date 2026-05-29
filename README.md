@@ -44,51 +44,6 @@ $ cat /etc/motd
 ---
 
 <details open>
-<summary><b>⚔️ &nbsp;Arsenal</b></summary>
-<br>
-
-<table>
-  <tr>
-    <td valign="top" width="50%">
-
-**🌐 Network**
-```
-Wireshark · tshark · tcpdump
-Nmap · Masscan · RustScan
-Scapy · hping3 · Netcat
-MITMf · Bettercap · Ettercap
-```
-
-**💥 Exploit**
-```
-Metasploit · Empire · Covenant
-Immunity Debugger · x64dbg
-Ghidra · IDA · radare2
-Custom C payloads
-```
-
-**🕸️ Web**
-```
-Burp Suite · OWASP ZAP
-sqlmap · NoSQLMap
-ffuf · dirb · Gobuster
-XSS · CSRF · SSRF · XXE
-```
-
-**☁️ Cloud & OS**
-```
-AWS · Azure · Docker · K8s
-Kali Linux · Parrot OS · Tails
-Arch (btw) · Qubes OS
-```
-  </tr>
-</table>
-
-</details>
-
----
-
-<details open>
 <summary><b>🧰 &nbsp;Tech Stack</b></summary>
 <br>
 
