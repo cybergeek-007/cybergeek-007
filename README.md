@@ -1,83 +1,183 @@
 <div align="center">
 
-```
- ██████╗██╗   ██╗██████╗ ███████╗██████╗      ██████╗ ███████╗███████╗██╗  ██╗
-██╔════╝╚██╗ ██╔╝██╔══██╗██╔════╝██╔══██╗    ██╔════╝ ██╔════╝██╔════╝██║ ██╔╝
-██║      ╚████╔╝ ██████╔╝█████╗  ██████╔╝    ██║  ███╗█████╗  █████╗  █████╔╝ 
-██║       ╚██╔╝  ██╔══██╗██╔══╝  ██╔══██╗    ██║   ██║██╔══╝  ██╔══╝  ██╔═██╗ 
-╚██████╗   ██║   ██████╔╝███████╗██║  ██║    ╚██████╔╝███████╗███████╗██║  ██╗
- ╚═════╝   ╚═╝   ╚═════╝ ╚══════╝╚═╝  ╚═╝    ╚═════╝ ╚══════╝╚══════╝╚═╝  ╚═╝
-                                                                      — 0 0 7
-```
+<div align="center">
+  <a href="https://www.fontspace.com/category/circuit">
+    <img src="https://see.fontimg.com/api/rf5/EaJ78/ZTJiMmQxMjA4MjNkNDg3NWEwM2Q1ODljZTA5OTZjZWMudHRm/Y3liZXIgZ2Vlaw/cirquee.png?r=fs&h=112&w=1000&fg=FFFFFF&bg=0D1117&tb=1&s=112" alt="CYBER GEEK" />
+  </a>
+</div>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=Packet+Whisperer+%F0%9F%93%A1;Red+Team+Operator+%F0%9F%94%A5;Exploit+Dev+%7C+Network+Forensics;I+read+hex+dumps+for+fun+%E2%9A%A1;root%40netguard%3A~%23+whoami)](https://git.io/typing-svg)
+<br>
+
+![TryHackMe](https://img.shields.io/badge/TryHackMe-Top%201%25-%23212C42?style=for-the-badge&logo=tryhackme&logoColor=red)
+![HackerOne](https://img.shields.io/badge/HackerOne-Disclosed-%23494649?style=for-the-badge&logo=hackerone&logoColor=white)
+![CTF](https://img.shields.io/badge/MythX%20CTF-9th%20National-%23FFD700?style=for-the-badge&logo=hackthebox&logoColor=black)
+![Status](https://img.shields.io/badge/Status-Active-%2300FF41?style=for-the-badge&logo=statuspage&logoColor=white)
 
 </div>
 
-## 🕵️ `whoami`
+---
+
+<details open>
+<summary><b>☠️ &nbsp;whoami</b></summary>
+<br>
 
 ```bash
-┌──(cybergeek-007㉿127.0.0.1)-[~]
-└─$ cat profile.txt
+$ id
+uid=0(root) gid=0(root) groups=0(root),1(bin),2(daemon),3(sys),4(adm),6(disk),10(wheel)
 
-  Name     :  Ritesh Guleria
-  Role     :  Network Security Analyst / Red Team Enthusiast
-  Status   :  [ ONLINE ] — Hunting packets in the wild
-  Motto    :  "If it sends packets, I can read it. If it has ports, I can knock."
-  Fun Fact :  Reading raw hex dumps > scrolling social media 🖤
+$ cat /etc/motd
+╔══════════════════════════════════════════════════════════════╗
+║  I live where the packets flow.                             ║
+║  If your firewall blinks, I probably blinked first.         ║
+║  I don't break things — I just prove they were never whole. ║
+║  Every port is a door. Every protocol is a whisper.         ║
+║  I listen to both.                                          ║
+║  No name. No face. Just packets and persistence.            ║
+╚══════════════════════════════════════════════════════════════╝
 ```
+
+> *"The quietest exploit is the one your logs never write."*
+
+</details>
+
 
 ---
 
-## 🔭 `active --operations`
+<details open>
+<summary><b>⚔️ &nbsp;Arsenal</b></summary>
+<br>
 
 <table>
   <tr>
-    <td><b>🛠️ Building</b></td>
-    <td><b>NetGuard</b> — A Python-based network sentinel fusing <code>Tshark</code> + <code>AbuseIPDB API</code> for real-time packet inspection & malicious IP flagging</td>
-  </tr>
-  <tr>
-    <td><b>👯 Collaborating</b></td>
-    <td>Open-source <b>Red Teaming tools</b>, exploit development projects, automated vulnerability scanners — got an idea? Let's build it</td>
-  </tr>
-  <tr>
-    <td><b>🌱 Loading</b></td>
-    <td>In Progress =><code> ISC2 Certified in Cybersecurity (CC)</code> · <code>CAPIJ — Certified API Hacking Junior</code></td>
-  </tr>
-  <tr>
-    <td><b>💬 Ask Me</b></td>
-    <td>IDS/IPS evasion (Nmap, Amass, Nuclie, Rustscan), Protocol dissection (Wireshark), Post-exploitation (Metasploit), & Web App Sec (OWASP).</td>
-  </tr>
-  <tr>
-    <td><b>⚡ Legend</b></td>
-    <td>Pinging 127.0.0.1</td>
+    <td valign="top" width="50%">
+
+**🌐 Network**
+```
+Wireshark · tshark · tcpdump
+Nmap · Masscan · RustScan
+Scapy · hping3 · Netcat
+MITMf · Bettercap · Ettercap
+```
+
+**💥 Exploit**
+```
+Metasploit · Empire · Covenant
+Immunity Debugger · x64dbg
+Ghidra · IDA · radare2
+Custom C payloads
+```
+
+**🕸️ Web**
+```
+Burp Suite · OWASP ZAP
+sqlmap · NoSQLMap
+ffuf · dirb · Gobuster
+XSS · CSRF · SSRF · XXE
+```
+
+**☁️ Cloud & OS**
+```
+AWS · Azure · Docker · K8s
+Kali Linux · Parrot OS · Tails
+Arch (btw) · Qubes OS
+```
   </tr>
 </table>
 
+</details>
+
 ---
 
-## 🧰 `cat /etc/tech-stack`
+<details open>
+<summary><b>🧰 &nbsp;Tech Stack</b></summary>
+<br>
 
-#### 💻 Languages & Scripting
+**💻 Languages**
+
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Bash](https://img.shields.io/badge/Bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
 
-#### ☁️ Cloud & Infrastructure
+**☁️ Infrastructure**
+
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-%2346E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
 
-#### 🗄️ Databases
+**🗄️ Databases**
+
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 
-#### 🕵️ Ghost Protocols
+**🕵️ Ghost Protocols**
+
 ![TOR](https://img.shields.io/badge/TOR-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-%231679A7.svg?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-%23557C94.svg?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-%232596CD.svg?style=for-the-badge&logo=metasploit&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-%23FF6633.svg?style=for-the-badge&logo=portswigger&logoColor=white)
+
+</details>
+
+---
+
+<details>
+<summary><b>🏴 &nbsp;CTF & Research</b></summary>
+<br>
+
+```
+Rank:   TryHackMe — Top 1% Global 🌍
+Trophy: MythX: An Endgame Protocol — 9th Place (National) 🥇
+Disc:   HackerOne — GitHub Copilot CLI v1.0.3 (Responsible Disclosure)
+```
+
+| Platform | Profile |
+|----------|---------|
+| 🟥 TryHackMe | Top 1% Global |
+| 🐛 HackerOne | Responsible Disclosure — GitHub Copilot CLI |
+| 🚩 MythX CTF | 9th Place — National Level |
+
+</details>
+
+
+---
+
+<details>
+<summary><b>📡 &nbsp;Signals</b></summary>
+<br>
+
+```
+Last seen:   somewhere between SYN and RST
+Currently:   reading raw PCAPs at 3 AM
+Uptime:      ████████████████████░░░░  ~84%  (the rest is recon)
+Reach me:    0x00 :: dead drop :: keybase :: session
+
+  (if you need more than that, you don't need me)
+```
+
+
+</details>
+
+---
+
+```
+$ exit
+logout
+Connection to 0.0.0.0 closed.
+```
+
+<div align="center">
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=cybergeek-007.cybergeek-007)
+&nbsp;&nbsp;
+![](https://komarev.com/ghpvc/?username=cybergeek-007&color=00ff41&style=flat-square&label=profile+views)
+
+
+
+</div>
