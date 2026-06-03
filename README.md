@@ -27,12 +27,12 @@ uid=0(root) gid=0(root) groups=0(root),1(bin),2(daemon),3(sys),4(adm),6(disk),10
 
 $ cat /etc/motd
 ╔══════════════════════════════════════════════════════════════╗
-║  I live where the packets flow.                             ║
-║  If your firewall blinks, I probably blinked first.         ║
-║  I don't break things — I just prove they were never whole. ║
-║  Every port is a door. Every protocol is a whisper.         ║
-║  I listen to both.                                          ║
-║  No name. No face. Just packets and persistence.            ║
+║  I live where the packets flow.                              ║
+║  If your firewall blinks, I probably blinked first.          ║
+║  I don't break things — I just prove they were never whole.  ║
+║  Every port is a door. Every protocol is a whisper.          ║
+║  I listen to both.                                           ║
+║  No name. No face. Just packets and persistence.             ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
